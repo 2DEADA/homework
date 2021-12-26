@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Расчет зп", "Расчет зп\Расчет зп.csproj", "{B4682692-D00E-4037-B37C-DB35E40B7FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4682692-D00E-4037-B37C-DB35E40B7FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4682692-D00E-4037-B37C-DB35E40B7FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4682692-D00E-4037-B37C-DB35E40B7FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4682692-D00E-4037-B37C-DB35E40B7FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4DA1A1-A838-488C-AF64-4585F2B5708D}
+	EndGlobalSection
+EndGlobal
